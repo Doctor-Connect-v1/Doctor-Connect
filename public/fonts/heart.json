@@ -1,0 +1,34 @@
+{
+  "glyphs": {
+    "♥": {
+      "ha": 1024,
+      "x_min": 0,
+      "x_max": 1024,
+      "o": "m 512,837.99805 c -259.84863,0 -499.36523,-220.75196 -499.36523,-499.36524 0,-146.24511 59.27734,-246.55273 153.41308,-318.60351 104.96094,-80.30761 258.76953,-135.67871 345.95215,-135.67871 87.18262,0 241.0791,55.3711 346.03027,135.67871 94.05762,72.05078 153.33496,172.3584 153.33496,318.60351 0,278.61328 -239.51758,499.36524 -499.36523,499.36524 z"
+    }
+  },
+  "familyName": "heart",
+  "ascender": 1024,
+  "descender": -271,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "yMin": -271,
+    "xMin": -193,
+    "yMax": 1024,
+    "xMax": 1024
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Custom heart shape for 3D text",
+    "fontFamily": "heart",
+    "fontSubfamily": "Regular",
+    "uniqueID": "heart",
+    "fullName": "heart",
+    "version": "Version 1.0",
+    "postScriptName": "heart"
+  },
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
